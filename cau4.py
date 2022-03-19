@@ -1,13 +1,13 @@
 year = input("What year is it?\n")
 
-print("""
+print(f"""
 
 What year is it?
     2022
                         
                         . : .
 HAPPY NEW YEAR        . '.:.' .
-!!! 2022 !!!          . .':'. .
+!!! {year} !!!        . .':'. .
                       . .' : '.
                        '. : .'
                         
